@@ -5,3 +5,5 @@ Cristian tiene 23 años, nació en Colombia y vive en Bogotá
 Hoy hablaremos de su vida
 
 Quiere ser un programador y lo va a lograr.
+
+Cristian tiene como meta para este año aprender desarrollo web
